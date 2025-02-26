@@ -1,0 +1,14 @@
+name: whisper-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip=23.0
+  - pip:
+    - openai-whisper
+    - flask==2.3.3
+    - flask-cors==4.0.0
+    - gunicorn==21.2.0
+    - pydub==0.25.1
+    - ffmpeg-python==0.2.0 

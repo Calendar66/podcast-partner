@@ -1,0 +1,47 @@
+# Dependency directories
+node_modules/
+/.pnp
+.pnp.js
+
+# Build outputs
+/build
+/dist
+/out
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+whisper-env/
+
+# Whisper API history folder contents
+whisper-api/history/audio/*
+whisper-api/history/*.json
+
+# Keep the history folders but not their contents
+!whisper-api/history/audio/.gitkeep
+!whisper-api/history/.gitkeep
