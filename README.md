@@ -5,7 +5,7 @@ An interactive podcast partner application that displays transcripts with synchr
 ![image.png](https://obsidian-picture-1313051055.cos.ap-nanjing.myqcloud.com/Obsidian/20250227005526.png)
 
 ## Motivation
-Google's NotebookLLM is excellent for quickly building understanding of complex concepts. This tool offers the ability to generate **English podcasts** based on the content of a collection of notes. As someone who has a habit of listening to podcasts for half an hour every morning (I recommend my favorite morning companion podcast:生动早咖啡), I deeply understand the value of quality audio content.
+Google's NotebookLLM is excellent for quickly building understanding of complex concepts. This tool offers the ability to generate **English podcasts** based on the content of a collection of notes. As someone who has a habit of listening to podcasts for half an hour every morning (I recommend my favorite morning companion podcast:声动早咖啡), I deeply understand the value of quality audio content.
 
 To more accurately understand English podcast content and have sufficient time for shadowing practice and reflection, I developed this simple and practical application.
 
